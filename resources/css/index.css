@@ -1,0 +1,30 @@
+header {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    text-align: center;
+    font-family: 'Lucida Handwriting', Garamond, Georgia;
+    font-weight: bold;
+    color: rgb(255, 208, 89);
+    font-size: 40px;
+    padding: 130px;
+    border-radius: 60px;
+}
+
+.tools {
+    font-family: 'Lucida Handwriting', Garamond, Georgia;
+    font-weight: bold;
+    color:rgb(252, 247, 216);
+    background-color: rgb(5, 29, 81);
+    border-radius: 90px;
+    padding-left: 10px;
+}
+
+.image img {
+    border-radius: 50%;
+    padding:10px;
+}
+
+figcaption {
+    font-size: 20px;
+    padding:10px;
+}
+
